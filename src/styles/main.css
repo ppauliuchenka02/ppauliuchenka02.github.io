@@ -1,0 +1,11 @@
+main {
+	padding: 5% 0;
+}
+
+.card svg {
+	margin-right: .5rem;
+}
+
+.card.skills p {
+	margin: 0;
+}
